@@ -50,6 +50,10 @@ module.exports = {
                 name: "Projects",
                 url: "/#projects",
             },
+            {
+                name: "Projects",
+                url: "/pertanyaan.html",
+            },
         ],
         button: {
             name: "Contact",

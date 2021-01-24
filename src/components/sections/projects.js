@@ -181,8 +181,8 @@ const StyledProject = styled(motion.div)`
   }
   .screenshot {
     width: 100%;
-    max-width: 45rem;
-    height: 20rem;
+    max-width: 60rem;
+    height: 30rem;
     border-radius: ${({ theme }) => theme.borderRadius};
     box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.16);
     transition: all 0.3s ease-out;

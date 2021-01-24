@@ -3,7 +3,7 @@ module.exports = {
     author: "@konstantinmuenster",
     siteTitle: "Ardian's Profile",
     siteShortTitle: "Ardian", // Used as logo text in header, footer, and splash screen
-    siteDescription: "Welcome To My Portofolio"
+    siteDescription: "Welcome To My Portfolio"
     siteUrl: "https://ardianff.netlify.app/",
     siteLanguage: "en_US",
     siteIcon: "src/content/ar.png", // Relative to gatsby-config file
